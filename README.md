@@ -16,7 +16,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git ](https://github.com/KOLAGANIGANESH/chat-application.git. 
+git clone https://github.com/KOLAGANIGANESH/chat-application.git. 
 Navigate to the project directory:
 
 bash
