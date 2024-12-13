@@ -16,12 +16,12 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/your-repo-name.git  
+git clone https://github.com/your-username/your-repo-name.git ](https://github.com/KOLAGANIGANESH/chat-application.git. 
 Navigate to the project directory:
 
 bash
 Copy code
-cd your-repo-name 
+cd chat-application 
 
 Install dependencies:
 bash
